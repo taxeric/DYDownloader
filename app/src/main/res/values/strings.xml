@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DYDownloader</string>
+
+    <string name="tips">
+        1.粘贴分享链接\n
+        2.点按钮\n
+        3.等待转圈圈完成\n
+        4.可以直接下载(或许会重定向,或许重定向会失败)\n
+        4.可以跳到浏览器下载\n
+        5.可以只复制下载链接
+    </string>
+</resources>
